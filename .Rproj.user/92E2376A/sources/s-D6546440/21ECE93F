@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1640858686067.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4016459892",
+    "id" : "21ECE93F",
+    "lastKnownWriteTime" : 1640858620,
+    "last_content_update" : 1640858620,
+    "path" : "F:/OneDrive - University of South Carolina/Research/R package/integrative/R/omnibus.R",
+    "project_path" : "R/omnibus.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
